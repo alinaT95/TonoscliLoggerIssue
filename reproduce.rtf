@@ -1,0 +1,41 @@
+{\rtf1\ansi\ansicpg1251\cocoartf2638
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fnil\fcharset0 .AppleSystemUIFontMonospaced-Regular;\f2\fnil\fcharset0 Menlo-Regular;
+}
+{\colortbl;\red255\green255\blue255;\red24\green26\blue30;\red255\green255\blue255;\red13\green80\blue209;
+\red160\green169\blue180;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c12157\c13725\c15686;\cssrgb\c100000\c100000\c100000;\cssrgb\c3529\c41176\c85490;
+\cssrgb\c68627\c72157\c75686\c20000;\csgray\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs32 \cf2 \cb3 \expnd0\expndtw0\kerning0
+installed {\field{\*\fldinst{HYPERLINK "https://www.docker.com/"}}{\fldrslt 
+\f1\fs27\fsmilli13600 \cf4 \cb5 Docker}} >= 19.x installed\
+\pard\pardeftab720\partightenfactor0
+
+\f2\fs22 \cf6 \cb1 \kerning1\expnd0\expndtw0 \CocoaLigature0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+docker run -d --name local-node -e USER_AGREEMENT=yes -p80:80 tonlabs/local-node\
+\
+tonos-cli getkeypair -o key.json\
+\
+tonos-cli -j genaddr --setkey key.json 1_Accumulator.tvc --abi 1_Accumulator.abi.json --save --wc 0\
+\
+\{\
+  "raw_address": "0:07f7765fb200770c7d4f8fb11d7f248b0f8c6aa67ca2997744aba94c11899746",\
+  "testnet": \{\
+    "non-bounceable": "0QAH93ZfsgB3DH1Pj7EdfySLD4xqpnyimXdEq6lMEYmXRsK2",\
+    "bounceable": "kQAH93ZfsgB3DH1Pj7EdfySLD4xqpnyimXdEq6lMEYmXRp9z"\
+  \},\
+  "mainnet": \{\
+    "non-bounceable": "UQAH93ZfsgB3DH1Pj7EdfySLD4xqpnyimXdEq6lMEYmXRnk8",\
+    "bounceable": "EQAH93ZfsgB3DH1Pj7EdfySLD4xqpnyimXdEq6lMEYmXRiT5"\
+  \}\
+\}\
+\
+/Users/filippburtyka/tonos-cli_newww/tonos-cli/target/release/tonos-cli call  --abi ./local_giver.abi.json 0:ece57bcc6c530283becbbd8a3b24d3c5987cdddc3c8b7b33be6e4a6312490415 sendTransaction '\{"dest":"0:c7f5a3fdb9aed45c760bd5c2c66aa7f068d93b2753a3b54aaa1717cd54389da4","value":"1500000000","bounce":"false","allBalance":"false","payload":""\}' --sign ./local_giver.keys.json \
+\
+/Users/filippburtyka/tonos-cli_newww/tonos-cli/target/release/tonos-cli deploy --wc 0 --abi 1_Accumulator.abi.json 1_Accumulator.tvc \{\} --sign key.json\
+\
+/Users/filippburtyka/tonos-cli_newww/tonos-cli/target/release/tonos-cli -j call  --abi 1_Accumulator.abi.json 0:c7f5a3fdb9aed45c760bd5c2c66aa7f068d93b2753a3b54aaa1717cd54389da4 reset '\{\}' --sign key.json}
