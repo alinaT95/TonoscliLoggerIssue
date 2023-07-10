@@ -1,0 +1,1064 @@
+{
+  "map": {
+    "0906223688dfd5dbcd520ad0c39d6e9373a82ea0a18727e06dc0207e717fde5c": {
+      "0": {
+        "filename": "1_Accumulator.code",
+        "line": 4
+      },
+      "8": {
+        "filename": "1_Accumulator.code",
+        "line": 5
+      },
+      "24": {
+        "filename": "1_Accumulator.code",
+        "line": 6
+      },
+      "32": {
+        "filename": "1_Accumulator.code",
+        "line": 7
+      },
+      "48": {
+        "filename": "1_Accumulator.code",
+        "line": 10
+      },
+      "64": {
+        "filename": "1_Accumulator.code",
+        "line": 11
+      },
+      "80": {
+        "filename": "1_Accumulator.code",
+        "line": 12
+      },
+      "88": {
+        "filename": "1_Accumulator.sol",
+        "line": 12
+      },
+      "104": {
+        "filename": "1_Accumulator.sol",
+        "line": 12
+      },
+      "128": {
+        "filename": "1_Accumulator.sol",
+        "line": 14
+      },
+      "144": {
+        "filename": "1_Accumulator.sol",
+        "line": 14
+      },
+      "152": {
+        "filename": "1_Accumulator.sol",
+        "line": 14
+      },
+      "160": {
+        "filename": "1_Accumulator.sol",
+        "line": 14
+      },
+      "168": {
+        "filename": "1_Accumulator.sol",
+        "line": 14
+      },
+      "176": {
+        "filename": "1_Accumulator.sol",
+        "line": 14
+      },
+      "184": {
+        "filename": "1_Accumulator.sol",
+        "line": 14
+      },
+      "192": {
+        "filename": "1_Accumulator.sol",
+        "line": 14
+      },
+      "208": {
+        "filename": "1_Accumulator.sol",
+        "line": 14
+      },
+      "216": {
+        "filename": "1_Accumulator.sol",
+        "line": 14
+      },
+      "240": {
+        "filename": "1_Accumulator.sol",
+        "line": 15
+      },
+      "256": {
+        "filename": "1_Accumulator.code",
+        "line": 31
+      },
+      "272": {
+        "filename": "1_Accumulator.code",
+        "line": 34
+      }
+    },
+    "13940b5ac06cf3a0f55299ccdf8821080e2198faf00be1c0b4d4dfd6f41a4c2c": {
+      "0": {
+        "filename": "1_Accumulator.code",
+        "line": 37
+      },
+      "8": {
+        "filename": "1_Accumulator.code",
+        "line": 38
+      },
+      "24": {
+        "filename": "1_Accumulator.code",
+        "line": 39
+      },
+      "48": {
+        "filename": "1_Accumulator.code",
+        "line": 40
+      },
+      "64": {
+        "filename": "1_Accumulator.code",
+        "line": 41
+      },
+      "72": {
+        "filename": "1_Accumulator.code",
+        "line": 42
+      },
+      "88": {
+        "filename": "1_Accumulator.sol",
+        "line": 20
+      },
+      "104": {
+        "filename": "1_Accumulator.sol",
+        "line": 20
+      },
+      "112": {
+        "filename": "1_Accumulator.code",
+        "line": 49
+      },
+      "128": {
+        "filename": "1_Accumulator.code",
+        "line": 52
+      },
+      "144": {
+        "filename": "1_Accumulator.code",
+        "line": 55
+      }
+    },
+    "1c471e355a29e2cc9ae825f8d6326cbbbe7a62402fe0309a185ada69050c2135": {
+      "0": {
+        "filename": "1_Accumulator.code",
+        "line": 175
+      },
+      "16": {
+        "filename": "1_Accumulator.code",
+        "line": 176
+      },
+      "24": {
+        "filename": "1_Accumulator.code",
+        "line": 177
+      },
+      "40": {
+        "filename": "1_Accumulator.code",
+        "line": 178
+      },
+      "56": {
+        "filename": "1_Accumulator.code",
+        "line": 179
+      },
+      "72": {
+        "filename": "1_Accumulator.code",
+        "line": 180
+      },
+      "80": {
+        "filename": "1_Accumulator.code",
+        "line": 181
+      },
+      "96": {
+        "filename": "1_Accumulator.code",
+        "line": 182
+      },
+      "104": {
+        "filename": "1_Accumulator.code",
+        "line": 183
+      },
+      "120": {
+        "filename": "1_Accumulator.code",
+        "line": 184
+      },
+      "128": {
+        "filename": "1_Accumulator.code",
+        "line": 185
+      },
+      "144": {
+        "filename": "1_Accumulator.code",
+        "line": 186
+      },
+      "160": {
+        "filename": "1_Accumulator.code",
+        "line": 187
+      },
+      "176": {
+        "filename": "1_Accumulator.code",
+        "line": 188
+      },
+      "192": {
+        "filename": "1_Accumulator.code",
+        "line": 189
+      },
+      "216": {
+        "filename": "1_Accumulator.code",
+        "line": 190
+      },
+      "232": {
+        "filename": "1_Accumulator.code",
+        "line": 191
+      },
+      "240": {
+        "filename": "1_Accumulator.code",
+        "line": 192
+      },
+      "256": {
+        "filename": "1_Accumulator.code",
+        "line": 193
+      },
+      "264": {
+        "filename": "1_Accumulator.code",
+        "line": 194
+      },
+      "280": {
+        "filename": "1_Accumulator.code",
+        "line": 196
+      }
+    },
+    "248ac3d014ca04760439113fa52eba4b7829a03a87fb95f961a5bb7e327e1248": {
+      "0": {
+        "filename": "1_Accumulator.code",
+        "line": 326
+      },
+      "8": {
+        "filename": "1_Accumulator.code",
+        "line": 327
+      },
+      "56": {
+        "filename": "1_Accumulator.code",
+        "line": 328
+      },
+      "64": {
+        "filename": "1_Accumulator.code",
+        "line": 329
+      },
+      "80": {
+        "filename": "1_Accumulator.code",
+        "line": 355
+      },
+      "88": {
+        "filename": "1_Accumulator.code",
+        "line": 356
+      },
+      "136": {
+        "filename": "1_Accumulator.code",
+        "line": 357
+      },
+      "144": {
+        "filename": "1_Accumulator.code",
+        "line": 358
+      }
+    },
+    "262dd53c40f648616ad81364f4fc6032f5e22d08ff44743f120bf8657e70094d": {
+      "0": {
+        "filename": "1_Accumulator.code",
+        "line": 330
+      },
+      "8": {
+        "filename": "1_Accumulator.code",
+        "line": 331
+      },
+      "56": {
+        "filename": "1_Accumulator.code",
+        "line": 332
+      },
+      "64": {
+        "filename": "1_Accumulator.code",
+        "line": 333
+      },
+      "80": {
+        "filename": "1_Accumulator.code",
+        "line": 336
+      },
+      "88": {
+        "filename": "1_Accumulator.code",
+        "line": 337
+      },
+      "136": {
+        "filename": "1_Accumulator.code",
+        "line": 338
+      },
+      "144": {
+        "filename": "1_Accumulator.code",
+        "line": 339
+      },
+      "160": {
+        "filename": "1_Accumulator.code",
+        "line": 342
+      },
+      "168": {
+        "filename": "1_Accumulator.code",
+        "line": 343
+      },
+      "216": {
+        "filename": "1_Accumulator.code",
+        "line": 344
+      },
+      "224": {
+        "filename": "1_Accumulator.code",
+        "line": 345
+      },
+      "240": {
+        "filename": "1_Accumulator.code",
+        "line": 348
+      },
+      "248": {
+        "filename": "1_Accumulator.code",
+        "line": 349
+      },
+      "296": {
+        "filename": "1_Accumulator.code",
+        "line": 350
+      },
+      "304": {
+        "filename": "1_Accumulator.code",
+        "line": 351
+      }
+    },
+    "2ffe6fe00672931001f8c71927983098612f585766686e0d530d5d63b3bbe1b9": {
+      "0": {
+        "filename": "1_Accumulator.code",
+        "line": 162
+      },
+      "16": {
+        "filename": "1_Accumulator.code",
+        "line": 163
+      },
+      "24": {
+        "filename": "1_Accumulator.code",
+        "line": 164
+      },
+      "40": {
+        "filename": "1_Accumulator.code",
+        "line": 165
+      },
+      "56": {
+        "filename": "1_Accumulator.code",
+        "line": 166
+      },
+      "72": {
+        "filename": "1_Accumulator.code",
+        "line": 167
+      },
+      "80": {
+        "filename": "1_Accumulator.code",
+        "line": 168
+      },
+      "96": {
+        "filename": "1_Accumulator.code",
+        "line": 169
+      },
+      "104": {
+        "filename": "1_Accumulator.code",
+        "line": 170
+      },
+      "120": {
+        "filename": "1_Accumulator.code",
+        "line": 171
+      },
+      "136": {
+        "filename": "1_Accumulator.code",
+        "line": 172
+      }
+    },
+    "60d05d7826542e0324d391601b1153a2a5e28973b83317cb6759eaed80dc0685": {
+      "0": {
+        "filename": "1_Accumulator.sol",
+        "line": 28
+      }
+    },
+    "735118f01382a1178c2c0efdf3817bc7e748cfab5cfe70b4a072b8b44db41f71": {
+      "0": {
+        "filename": "1_Accumulator.code",
+        "line": 229
+      },
+      "16": {
+        "filename": "1_Accumulator.code",
+        "line": 230
+      },
+      "24": {
+        "filename": "1_Accumulator.code",
+        "line": 231
+      },
+      "40": {
+        "filename": "1_Accumulator.code",
+        "line": 232
+      },
+      "56": {
+        "filename": "1_Accumulator.code",
+        "line": 233
+      },
+      "72": {
+        "filename": "1_Accumulator.code",
+        "line": 234
+      },
+      "80": {
+        "filename": "1_Accumulator.code",
+        "line": 235
+      },
+      "88": {
+        "filename": "1_Accumulator.code",
+        "line": 236
+      },
+      "112": {
+        "filename": "1_Accumulator.code",
+        "line": 237
+      },
+      "136": {
+        "filename": "1_Accumulator.code",
+        "line": 238
+      },
+      "144": {
+        "filename": "1_Accumulator.code",
+        "line": 239
+      },
+      "152": {
+        "filename": "1_Accumulator.code",
+        "line": 240
+      },
+      "168": {
+        "filename": "1_Accumulator.code",
+        "line": 241
+      },
+      "184": {
+        "filename": "1_Accumulator.code",
+        "line": 245
+      },
+      "192": {
+        "filename": "1_Accumulator.code",
+        "line": 246
+      },
+      "216": {
+        "filename": "1_Accumulator.code",
+        "line": 247
+      },
+      "232": {
+        "filename": "1_Accumulator.code",
+        "line": 248
+      },
+      "240": {
+        "filename": "1_Accumulator.code",
+        "line": 249
+      },
+      "256": {
+        "filename": "1_Accumulator.code",
+        "line": 253
+      },
+      "264": {
+        "filename": "1_Accumulator.code",
+        "line": 254
+      },
+      "280": {
+        "filename": "1_Accumulator.code",
+        "line": 257
+      }
+    },
+    "81cd90a9bf155fbe6b2751ac8a57f03cfbc7bed5c03cc45e74a204da3d84d487": {
+      "0": {
+        "filename": "1_Accumulator.code",
+        "line": 201
+      },
+      "16": {
+        "filename": "1_Accumulator.code",
+        "line": 202
+      },
+      "32": {
+        "filename": "1_Accumulator.code",
+        "line": 203
+      },
+      "48": {
+        "filename": "1_Accumulator.code",
+        "line": 204
+      },
+      "56": {
+        "filename": "1_Accumulator.code",
+        "line": 205
+      },
+      "72": {
+        "filename": "1_Accumulator.code",
+        "line": 206
+      },
+      "88": {
+        "filename": "1_Accumulator.code",
+        "line": 207
+      },
+      "104": {
+        "filename": "1_Accumulator.code",
+        "line": 208
+      },
+      "120": {
+        "filename": "1_Accumulator.code",
+        "line": 209
+      },
+      "128": {
+        "filename": "1_Accumulator.code",
+        "line": 210
+      }
+    },
+    "89c3662ec673d559a698c73627712074755fab5d9d6ccedb605a704fa6385ddd": {
+      "0": {
+        "filename": "1_Accumulator.sol",
+        "line": 22
+      },
+      "16": {
+        "filename": "1_Accumulator.sol",
+        "line": 23
+      },
+      "32": {
+        "filename": "1_Accumulator.sol",
+        "line": 23
+      },
+      "40": {
+        "filename": "1_Accumulator.sol",
+        "line": 23
+      },
+      "48": {
+        "filename": "1_Accumulator.sol",
+        "line": 23
+      },
+      "64": {
+        "filename": "1_Accumulator.sol",
+        "line": 24
+      },
+      "224": {
+        "filename": "1_Accumulator.sol",
+        "line": 24
+      },
+      "232": {
+        "filename": "1_Accumulator.sol",
+        "line": 24
+      },
+      "240": {
+        "filename": "1_Accumulator.sol",
+        "line": 24
+      },
+      "256": {
+        "filename": "1_Accumulator.sol",
+        "line": 24
+      },
+      "264": {
+        "filename": "1_Accumulator.sol",
+        "line": 24
+      },
+      "272": {
+        "filename": "1_Accumulator.sol",
+        "line": 24
+      }
+    },
+    "978961a6b5b583408643f5fc4e0326119e1497729fe7e178ac677ea554d35152": {
+      "0": {
+        "filename": "1_Accumulator.sol",
+        "line": 34
+      },
+      "16": {
+        "filename": "1_Accumulator.sol",
+        "line": 35
+      }
+    },
+    "b9017e94c8ddd273728a66e66565a3e77c4bd0a4fb677e7f625432d7eb2a9371": {
+      "0": {
+        "filename": "<internal-selector>",
+        "line": 1
+      },
+      "24": {
+        "filename": "<internal-selector>",
+        "line": 2
+      },
+      "40": {
+        "filename": "<internal-selector>",
+        "line": 3
+      }
+    },
+    "ba2345a6364fe230a422dcdf90221b30ad19ae293ec8deef8c8ccb3a7402b591": {
+      "0": {
+        "filename": "1_Accumulator.code",
+        "line": 306
+      },
+      "8": {
+        "filename": "1_Accumulator.code",
+        "line": 307
+      },
+      "16": {
+        "filename": "1_Accumulator.code",
+        "line": 308
+      },
+      "32": {
+        "filename": "1_Accumulator.code",
+        "line": 311
+      },
+      "48": {
+        "filename": "1_Accumulator.code",
+        "line": 312
+      },
+      "56": {
+        "filename": "1_Accumulator.code",
+        "line": 313
+      },
+      "72": {
+        "filename": "1_Accumulator.code",
+        "line": 314
+      },
+      "232": {
+        "filename": "1_Accumulator.code",
+        "line": 315
+      },
+      "240": {
+        "filename": "1_Accumulator.code",
+        "line": 316
+      },
+      "248": {
+        "filename": "1_Accumulator.code",
+        "line": 317
+      },
+      "264": {
+        "filename": "1_Accumulator.code",
+        "line": 318
+      },
+      "272": {
+        "filename": "1_Accumulator.code",
+        "line": 319
+      },
+      "280": {
+        "filename": "1_Accumulator.code",
+        "line": 320
+      },
+      "296": {
+        "filename": "1_Accumulator.code",
+        "line": 322
+      },
+      "304": {
+        "filename": "1_Accumulator.code",
+        "line": 323
+      }
+    },
+    "c00f7bdd9735ffe352bccd0b861a683ac3c264a172b944e9e0573faceb335ecb": {
+      "0": {
+        "filename": "<entry-selector>",
+        "line": 1
+      },
+      "8": {
+        "filename": "<entry-selector>",
+        "line": 2
+      },
+      "24": {
+        "filename": "<entry-selector>",
+        "line": 3
+      },
+      "32": {
+        "filename": "<entry-selector>",
+        "line": 4
+      },
+      "48": {
+        "filename": "<entry-selector>",
+        "line": 5
+      },
+      "56": {
+        "filename": "<entry-selector>",
+        "line": 6
+      },
+      "72": {
+        "filename": "<entry-selector>",
+        "line": 7
+      },
+      "88": {
+        "filename": "<entry-selector>",
+        "line": 8
+      },
+      "96": {
+        "filename": "<entry-selector>",
+        "line": 9
+      },
+      "112": {
+        "filename": "<entry-selector>",
+        "line": 10
+      },
+      "128": {
+        "filename": "<entry-selector>",
+        "line": 11
+      }
+    },
+    "cd32daeaa389621831e2e5fc76b119dd7b0d82d3010fbf7d5b1138408656ae21": {
+      "0": {
+        "filename": "1_Accumulator.code",
+        "line": 261
+      },
+      "16": {
+        "filename": "1_Accumulator.code",
+        "line": 262
+      },
+      "24": {
+        "filename": "1_Accumulator.code",
+        "line": 263
+      },
+      "40": {
+        "filename": "1_Accumulator.code",
+        "line": 264
+      },
+      "56": {
+        "filename": "1_Accumulator.code",
+        "line": 265
+      },
+      "72": {
+        "filename": "1_Accumulator.code",
+        "line": 266
+      },
+      "80": {
+        "filename": "1_Accumulator.code",
+        "line": 267
+      },
+      "96": {
+        "filename": "1_Accumulator.code",
+        "line": 270
+      },
+      "112": {
+        "filename": "1_Accumulator.code",
+        "line": 271
+      },
+      "120": {
+        "filename": "1_Accumulator.code",
+        "line": 272
+      },
+      "136": {
+        "filename": "1_Accumulator.code",
+        "line": 273
+      },
+      "152": {
+        "filename": "1_Accumulator.code",
+        "line": 274
+      },
+      "168": {
+        "filename": "1_Accumulator.code",
+        "line": 275
+      },
+      "176": {
+        "filename": "1_Accumulator.code",
+        "line": 276
+      },
+      "192": {
+        "filename": "1_Accumulator.code",
+        "line": 277
+      },
+      "200": {
+        "filename": "1_Accumulator.code",
+        "line": 278
+      },
+      "208": {
+        "filename": "1_Accumulator.code",
+        "line": 279
+      },
+      "216": {
+        "filename": "1_Accumulator.code",
+        "line": 280
+      },
+      "224": {
+        "filename": "1_Accumulator.code",
+        "line": 281
+      },
+      "240": {
+        "filename": "1_Accumulator.code",
+        "line": 282
+      },
+      "248": {
+        "filename": "1_Accumulator.code",
+        "line": 283
+      },
+      "264": {
+        "filename": "1_Accumulator.code",
+        "line": 284
+      },
+      "272": {
+        "filename": "1_Accumulator.code",
+        "line": 285
+      },
+      "288": {
+        "filename": "1_Accumulator.code",
+        "line": 286
+      },
+      "304": {
+        "filename": "1_Accumulator.code",
+        "line": 287
+      },
+      "320": {
+        "filename": "1_Accumulator.code",
+        "line": 289
+      },
+      "328": {
+        "filename": "1_Accumulator.code",
+        "line": 290
+      },
+      "344": {
+        "filename": "1_Accumulator.code",
+        "line": 291
+      },
+      "352": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "368": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "376": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "384": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "400": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "408": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "424": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "448": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "456": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "496": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "504": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "512": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "528": {
+        "filename": "stdlib.sol",
+        "line": 63
+      },
+      "544": {
+        "filename": "1_Accumulator.code",
+        "line": 293
+      },
+      "560": {
+        "filename": "1_Accumulator.code",
+        "line": 294
+      },
+      "568": {
+        "filename": "1_Accumulator.code",
+        "line": 295
+      },
+      "584": {
+        "filename": "1_Accumulator.code",
+        "line": 296
+      },
+      "592": {
+        "filename": "1_Accumulator.code",
+        "line": 297
+      },
+      "608": {
+        "filename": "1_Accumulator.code",
+        "line": 298
+      },
+      "624": {
+        "filename": "1_Accumulator.code",
+        "line": 299
+      },
+      "632": {
+        "filename": "1_Accumulator.code",
+        "line": 300
+      },
+      "648": {
+        "filename": "1_Accumulator.code",
+        "line": 303
+      }
+    },
+    "f07ad1715738497cb190f45fc7a5a6ba5ed9ef7f676ca9f1f7d5dd973c66bdfc": {
+      "0": {
+        "filename": "1_Accumulator.code",
+        "line": 109
+      },
+      "8": {
+        "filename": "1_Accumulator.code",
+        "line": 110
+      },
+      "24": {
+        "filename": "1_Accumulator.code",
+        "line": 111
+      },
+      "48": {
+        "filename": "1_Accumulator.code",
+        "line": 112
+      },
+      "64": {
+        "filename": "1_Accumulator.code",
+        "line": 113
+      },
+      "72": {
+        "filename": "1_Accumulator.code",
+        "line": 114
+      },
+      "88": {
+        "filename": "1_Accumulator.sol",
+        "line": 33
+      },
+      "96": {
+        "filename": "1_Accumulator.code",
+        "line": 120
+      },
+      "112": {
+        "filename": "1_Accumulator.code",
+        "line": 123
+      },
+      "120": {
+        "filename": "1_Accumulator.code",
+        "line": 124
+      },
+      "136": {
+        "filename": "1_Accumulator.code",
+        "line": 125
+      },
+      "144": {
+        "filename": "1_Accumulator.code",
+        "line": 126
+      },
+      "152": {
+        "filename": "1_Accumulator.code",
+        "line": 127
+      },
+      "168": {
+        "filename": "1_Accumulator.code",
+        "line": 128
+      },
+      "184": {
+        "filename": "1_Accumulator.code",
+        "line": 129
+      },
+      "192": {
+        "filename": "1_Accumulator.code",
+        "line": 130
+      },
+      "200": {
+        "filename": "1_Accumulator.code",
+        "line": 131
+      },
+      "208": {
+        "filename": "1_Accumulator.code",
+        "line": 132
+      },
+      "232": {
+        "filename": "1_Accumulator.code",
+        "line": 133
+      },
+      "240": {
+        "filename": "1_Accumulator.code",
+        "line": 134
+      },
+      "288": {
+        "filename": "1_Accumulator.code",
+        "line": 135
+      },
+      "312": {
+        "filename": "1_Accumulator.code",
+        "line": 136
+      },
+      "328": {
+        "filename": "1_Accumulator.code",
+        "line": 137
+      },
+      "336": {
+        "filename": "1_Accumulator.code",
+        "line": 138
+      },
+      "344": {
+        "filename": "1_Accumulator.code",
+        "line": 139
+      },
+      "360": {
+        "filename": "1_Accumulator.code",
+        "line": 141
+      },
+      "368": {
+        "filename": "1_Accumulator.code",
+        "line": 142
+      },
+      "376": {
+        "filename": "1_Accumulator.code",
+        "line": 144
+      },
+      "384": {
+        "filename": "1_Accumulator.code",
+        "line": 145
+      },
+      "400": {
+        "filename": "1_Accumulator.code",
+        "line": 148
+      }
+    },
+    "f24e1e7aa04d89aad2945816b6e9b921f2b3892da9ba53e2383c148351b96d0c": {
+      "0": {
+        "filename": "1_Accumulator.code",
+        "line": 242
+      },
+      "16": {
+        "filename": "1_Accumulator.code",
+        "line": 243
+      }
+    },
+    "f509c0cb77adfe47eebce3a285cdd1efe571dcf4a5b72b08d8d4f5a8d59a502d": {
+      "0": {
+        "filename": "1_Accumulator.code",
+        "line": 80
+      },
+      "8": {
+        "filename": "1_Accumulator.code",
+        "line": 81
+      },
+      "24": {
+        "filename": "1_Accumulator.code",
+        "line": 82
+      },
+      "48": {
+        "filename": "1_Accumulator.code",
+        "line": 83
+      },
+      "64": {
+        "filename": "1_Accumulator.code",
+        "line": 84
+      },
+      "72": {
+        "filename": "1_Accumulator.code",
+        "line": 85
+      },
+      "88": {
+        "filename": "1_Accumulator.sol",
+        "line": 27
+      },
+      "96": {
+        "filename": "1_Accumulator.code",
+        "line": 91
+      },
+      "112": {
+        "filename": "1_Accumulator.code",
+        "line": 94
+      },
+      "128": {
+        "filename": "1_Accumulator.code",
+        "line": 97
+      }
+    }
+  }
+}
